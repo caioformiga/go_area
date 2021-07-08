@@ -1,4 +1,4 @@
-package teste_go
+package goarea
 
 import "math"
 
